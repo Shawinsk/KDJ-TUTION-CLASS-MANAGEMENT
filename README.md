@@ -1,6 +1,6 @@
-# ClassMaster (tuition-manager)
+# KDJ-TUTION-CLASS-MANAGEMENT
 
-All-in-One Tution Class Manager System
+All-in-One Tution Class Management System
 
 ## Install the dependencies
 
